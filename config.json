@@ -1,0 +1,6 @@
+{ 
+    "wordListFilePath" : "./wordlist",
+    "anagram" : "poultry outwits ants",
+    "md5Checksum" : "4624d200580677270a54ccff86b9610e",
+    "maximumWordCount" : 20
+}
